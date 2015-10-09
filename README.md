@@ -4,6 +4,7 @@
 * `npm install -g webpack`
 * `npm install -g webpack-dev-server`
 * `npm install`
+* `bower install`
 * Terminal 1: `npm run build`
 * Terminal 2: `npm run server`
 * Browser `localhost:8080`
