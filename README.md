@@ -3,6 +3,7 @@
 * `nvm use 0.12.7`
 * `npm install -g webpack`
 * `npm install -g webpack-dev-server`
+* `npm install -g bower`
 * `npm install`
 * `bower install`
 * Terminal 1: `npm run build`
